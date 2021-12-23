@@ -1,7 +1,7 @@
 # 项目
 
 - 基于Spark的电影推荐系统
-- **Course supported by：** [gulixueyuan](http://www.gulixueyuan.com/goods/show/208?targetId=314&preview=0)
+
 
 
 ## 阶段1：项目体系架构概述
@@ -9,9 +9,8 @@
 ## 阶段2：基础环境搭建
 
 - 虚拟机： virtualbox
-- 系统：centos7
-- 工具：Finalshell
-- 主机：macOS Big Sur
+- 系统：centos8
+- 主机：localhost
 
 配置Mongodb
 
